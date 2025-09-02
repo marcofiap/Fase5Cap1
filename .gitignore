@@ -1,0 +1,46 @@
+# Python bytecode/cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Environment files
+.env
+.env.*
+*.env
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb~*
+
+# OS/IDE
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
+
+# Build/Dist
+build/
+dist/
+*.egg-info/
+
+# Caches
+.cache/
+*.cache
+
+# Data folder (not used in final setup)
+data/**
+!data/.gitkeep
+
+# PDF OCR artifacts
+PDF/*.txt
+PDF/*_ocr.pdf
+
+.venv/bin/activate
