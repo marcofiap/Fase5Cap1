@@ -67,5 +67,5 @@ Análise completa (EDA, clusterização e cinco modelos de regressão) em `Marco
 
 ## **Video (up to 5 minutes)**
 
-Add the unlisted YouTube link here: <VIDEO_LINK>
+Link do YouTube aqui: <https://youtu.be/HnQ-IKtIsYo>
 
