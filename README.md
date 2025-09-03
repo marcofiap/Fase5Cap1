@@ -65,7 +65,7 @@ jupyter notebook
 
 Análise completa (EDA, clusterização e cinco modelos de regressão) em `MarcoAurelioEberhardtAssumpcao_rm563348_pbl_fase4.ipynb`.
 
-## **Video (up to 5 minutes)**
+## **Video**
 
 Link do YouTube aqui: <https://youtu.be/HnQ-IKtIsYo>
 
