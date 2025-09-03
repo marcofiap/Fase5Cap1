@@ -43,7 +43,9 @@ Para dúvidas sobre o projeto, entre em contato com qualquer membro do **Grupo 3
   <i>Projeto Integrador | Fase 5 | FIAP - 2025</i>
 </p>
 
-## **How to Run**
+## **Passo-a-passo**
+
+## Entrega 1
 
 1. Coloque o arquivo `crop_yield.csv` na raiz do repositório.
 2. (Opcional) Crie e ative um ambiente virtual.
@@ -65,19 +67,20 @@ jupyter notebook
 
 Análise completa (EDA, clusterização e cinco modelos de regressão) em `MarcoAurelioEberhardtAssumpcao_rm563348_pbl_fase4.ipynb`.
 
-## **Video**
-
-Link do YouTube aqui: <https://youtu.be/HnQ-IKtIsYo>
+**Vídeo da apresentação:** [YouTube - Entrega 1 (não listado)](https://youtu.be/HnQ-IKtIsYo)
 
 
 
 
-## 📊 Entrega 2 – Estimativa de Custos na AWS
+------------------------------------
+
+
+## Entrega 2 – Estimativa de Custos na AWS
 
 **Site utilizado:** [AWS Pricing Calculator](https://calculator.aws/#/addService)  
-**Vídeo da apresentação:** [YouTube (não listado)](https://youtu.be/XuxRMm7qeyo)
+**Vídeo da apresentação:** [YouTube - Entrega 2 (não listado)](https://youtu.be/XuxRMm7qeyo)
 
-### 🖥️ Configuração solicitada
+### Configuração solicitada
 - 2 vCPU  
 - 1 GiB de memória  
 - Até 5 Gigabit de rede  
@@ -85,18 +88,18 @@ Link do YouTube aqui: <https://youtu.be/HnQ-IKtIsYo>
 - Sistema operacional: Linux  
 - Instância escolhida: **t4g.micro** (mais barata, ARM/Graviton)  
 
-### 💵 Estimativas de custo (On-Demand 100%)
+###  Estimativas de custo (On-Demand 100%)
 
 | Região            | EC2 (mensal) | EBS 50 GB (mensal) | **Custo total/mês** |
 |-------------------|-------------:|-------------------:|--------------------:|
 | **N. Virginia (us-east-1)** | ~US$ 3,07 | ~US$ 0,75 | **US$ 3,82** |
 | **São Paulo (sa-east-1)**   | ~US$ 4,89 | ~US$ 1,44 | **US$ 6,33** |
 
-📌 Valores obtidos diretamente na **AWS Pricing Calculator** com a configuração descrita.
+ Valores obtidos diretamente na **AWS Pricing Calculator** com a configuração descrita.
 
 ### Visualizações
 
-**Estimativa Mensal**  
+**Estimativa Mensal por região**  
 ![Custo total por região](imagens/estimativacomparar.png)
 
 **Participação de custos por região**  
